@@ -26,6 +26,8 @@
 
 - [2023~danvergara/dblab ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/danvergara/dblab)](https://github.com/danvergara/dblab): The database client every command line junkie deserves.
 
+- [2024~neilotoole/sq ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/neilotoole/sq)](https://github.com/neilotoole/sq): sq is a command line tool that provides jq-style access to structured data sources: SQL databases, or document formats like CSV or Excel. It is the lovechild of sql+jq.
+
 ### Editor
 
 - [2014-sqlpad ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/rickbergfalk/sqlpad): Web-based SQL editor run in your own private cloud. Supports MySQL, Postgres, SQL Server, Vertica, Crate, Presto, SAP HANA, and Cassandra.
