@@ -1,0 +1,3 @@
+# AI 视频字幕工具
+
+- [2024~Huanshere/VideoLingo ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Huanshere/VideoLingo)](https://github.com/Huanshere/VideoLingo): Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix 级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运 AI 字幕组
