@@ -14,6 +14,8 @@
 
 - [2024~taubyte/tau ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/taubyte/tau)](https://github.com/taubyte/tau): Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative.
 
+- [2025~bknd-io/bknd ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/bknd-io/bknd)](https://github.com/bknd-io/bknd): Lightweight Firebase/Supabase alternative built to run anywhere — incl. Next.js, Remix, Astro, Cloudflare, Bun, Node, AWS Lambda & more.
+
 # Self Hosting
 
 - [homelab ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/khuedoan/homelab): My self-hosting infrastructure, fully automated from empty disk to operating services.
