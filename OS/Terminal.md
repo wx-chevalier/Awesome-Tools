@@ -1,12 +1,12 @@
 # Awesome Terminal Tools
 
-- [2021~Fig ![code](https://ng-tech.icu/assets/code.svg)](https://fig.io/): Fig adds VSCode-style autocomplete to your existing terminal. Move faster with Fig.
+- [2021_Fig ![code](https://ng-tech.icu/assets/code.svg)](https://fig.io/): Fig adds VSCode-style autocomplete to your existing terminal. Move faster with Fig.
 
 # Emulator
 
 - [hyper ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/vercel/hyper): The goal of the project is to create a beautiful and extensible experience for command-line interface users, built on open web standards. In the beginning, our focus will be primarily around speed, stability and the development of the correct API for extension authors.
 
-- [2021~kitty ![code](https://ng-tech.icu/assets/code.svg)](https://sw.kovidgoyal.net/kitty/): The fast, feature-rich, GPU based terminal emulator
+- [2021_kitty ![code](https://ng-tech.icu/assets/code.svg)](https://sw.kovidgoyal.net/kitty/): The fast, feature-rich, GPU based terminal emulator
 
 - [Tabby ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/Eugeny/tabby): Tabby (formerly Terminus) is a highly configurable terminal emulator, SSH and serial client for Windows, macOS and Linux.
 
@@ -20,8 +20,8 @@
 
 # AutoCompletion
 
-- [2023~microsoft/inshellisense ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/microsoft/inshellisense)](https://github.com/microsoft/inshellisense): inshellisense provides IDE style autocomplete for shells. It's a terminal native runtime for autocomplete which has support for 600+ command line tools. inshellisense supports Windows, Linux, & MacOS.
+- [2023_microsoft/inshellisense ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/microsoft/inshellisense)](https://github.com/microsoft/inshellisense): inshellisense provides IDE style autocomplete for shells. It's a terminal native runtime for autocomplete which has support for 600+ command line tools. inshellisense supports Windows, Linux, & MacOS.
 
 # Terminal Share
 
-- [2023~ekzhang/sshx ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/ekzhang/sshx)](https://github.com/ekzhang/sshx): Fast, collaborative live terminal sharing over the web.
+- [2023_ekzhang/sshx ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/ekzhang/sshx)](https://github.com/ekzhang/sshx): Fast, collaborative live terminal sharing over the web.

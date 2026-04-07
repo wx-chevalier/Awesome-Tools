@@ -14,9 +14,9 @@
 
 - [blush](https://blush.design/zh-CN): 一个可以在线操作的插画素材网站，这个网站的插画素材，可以在线更该肤色、身体、头部、配饰等。
 
-- [2019~Excalidraw ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/excalidraw/excalidraw): Excalidraw is a whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.
+- [2019_Excalidraw ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/excalidraw/excalidraw): Excalidraw is a whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.
 
-- [2021~D2 ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/terrastruct/d2): D2 is a modern diagram scripting language that turns text to diagrams.
+- [2021_D2 ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/terrastruct/d2): D2 is a modern diagram scripting language that turns text to diagrams.
 
 ## Flow
 
@@ -113,7 +113,7 @@ Diagrams: timing
 
 ## 图床管理
 
-- [2018~PicGo ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/Molunerfinn/PicGo): 🚀A simple & beautiful tool for pictures uploading built by electron-vue
+- [2018_PicGo ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/Molunerfinn/PicGo): 🚀A simple & beautiful tool for pictures uploading built by electron-vue
 
 ## 相似度识别
 

@@ -76,7 +76,7 @@ CSS classes intellisense
 
 - [谷粒 🗃️](https://github.com/zhaoolee/ChromeAppHeroes): Chrome 插件英雄榜, 为优秀的 Chrome 插件写一本中文说明书, 让 Chrome 插件英雄们造福人类。
 
-- [2019~SingleFileZ ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/gildas-lormeau/SingleFileZ): SingleFileZ is a Web Extension for saving web pages as self-extracting HTML/ZIP hybrid files.
+- [2019_SingleFileZ ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/gildas-lormeau/SingleFileZ): SingleFileZ is a Web Extension for saving web pages as self-extracting HTML/ZIP hybrid files.
 
 - IE Tab: 仅支持 Windows 系统，能够在标签中以 IE 内核显示网页。
 
@@ -100,4 +100,4 @@ CSS classes intellisense
 
 # Cross-machine Sync
 
-- [2022~chezmoi ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/twpayne/chezmoi)](https://github.com/twpayne/chezmoi): Manage your dotfiles across multiple diverse machines, securely.
+- [2022_chezmoi ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/twpayne/chezmoi)](https://github.com/twpayne/chezmoi): Manage your dotfiles across multiple diverse machines, securely.

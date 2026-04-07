@@ -6,9 +6,9 @@
 
 - [Zsh ![code](https://ng-tech.icu/assets/code.svg)](https://www.zsh.org/): Zsh is a shell designed for interactive use, although it is also a powerful scripting language. More information can be found on the "Zsh Web Pages" sites.
 
-- [2020~starship ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/starship/starship): The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [2020_starship ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/starship/starship): The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 
-- [2021~Zellij ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/zellij-org/zellij): Zellij is a workspace aimed at developers, ops-oriented people and anyone who loves the terminal. At its core, it is a terminal multiplexer (similar to tmux and screen), but this is merely its infrastructure layer.
+- [2021_Zellij ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/zellij-org/zellij): Zellij is a workspace aimed at developers, ops-oriented people and anyone who loves the terminal. At its core, it is a terminal multiplexer (similar to tmux and screen), but this is merely its infrastructure layer.
 
 ## Emulator
 
@@ -22,14 +22,14 @@
 
 # Deployment
 
-- [Github Pages](): [2017~GitHub Pages and Single-Page Apps](https://dev.to/_evansalter/github-pages-and-single-page-apps)
+- [Github Pages](): [2017_GitHub Pages and Single-Page Apps](https://dev.to/_evansalter/github-pages-and-single-page-apps)
 
 ## Code Sandbox
 
-- [2022~eleven-sh/cli ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/eleven-sh/cli)](https://github.com/eleven-sh/cli): A CLI to create code sandboxes with automatic HTTPS and long running processes in your cloud provider account.
+- [2022_eleven-sh/cli ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/eleven-sh/cli)](https://github.com/eleven-sh/cli): A CLI to create code sandboxes with automatic HTTPS and long running processes in your cloud provider account.
 
 # Others
 
 - [2005-htop ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/hishamhm/htop): htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.
 
-- [2021~btop ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/aristocratos/btop): Resource monitor that shows usage and stats for processor, memory, disks, network and processes.
+- [2021_btop ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/aristocratos/btop): Resource monitor that shows usage and stats for processor, memory, disks, network and processes.

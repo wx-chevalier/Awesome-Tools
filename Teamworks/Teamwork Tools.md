@@ -1,12 +1,12 @@
 # Teamwork
 
-- [2023~Plane ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/makeplane/plane)](https://github.com/makeplane/plane): 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
+- [2023_Plane ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/makeplane/plane)](https://github.com/makeplane/plane): 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 
-- [2024~Tegon ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/tegonhq/tegon)](https://github.com/tegonhq/tegon): Tegon is an AI-first, open-source issue tracking software that uses AI to smartly automate manual task, workflows or provide more context to engineers for a given task.
+- [2024_Tegon ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/tegonhq/tegon)](https://github.com/tegonhq/tegon): Tegon is an AI-first, open-source issue tracking software that uses AI to smartly automate manual task, workflows or provide more context to engineers for a given task.
 
-- [2024~Worklenz ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Worklenz/worklenz)](https://github.com/Worklenz/worklenz): Worklenz is a project management tool designed to help organizations improve their efficiency. It provides a comprehensive solution for managing projects, tasks, and collaboration within teams.
+- [2024_Worklenz ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Worklenz/worklenz)](https://github.com/Worklenz/worklenz): Worklenz is a project management tool designed to help organizations improve their efficiency. It provides a comprehensive solution for managing projects, tasks, and collaboration within teams.
 
-- [2024~Namviek ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/hudy9x/namviek)](https://github.com/hudy9x/namviek): This project is an open-source project manager for small teams with low budget. It includes essential features for running your team.
+- [2024_Namviek ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/hudy9x/namviek)](https://github.com/hudy9x/namviek): This project is an open-source project manager for small teams with low budget. It includes essential features for running your team.
 
 # Software Development
 

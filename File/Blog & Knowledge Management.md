@@ -1,10 +1,10 @@
 # Awesome Documents
 
-- [2021~The documentation system》📚](https://documentation.divio.com/): There is a secret that needs to be understood in order to write good software documentation: there isn’t one thing called documentation, there are four.
+- [2021_The documentation system》📚](https://documentation.divio.com/): There is a secret that needs to be understood in order to write good software documentation: there isn’t one thing called documentation, there are four.
 
 - 资源检索：[鸠摩搜索](http://t.cn/RG07GHI)、[布克书屋](http://t.cn/AiEso12y)、[三秋书屋](http://t.cn/AiQ0uTv9)
 
-- [2018~SciHubEVA ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/leovan/SciHubEVA): Sci-Hub EVA is a cross-platform Sci-Hub GUI application.
+- [2018_SciHubEVA ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/leovan/SciHubEVA): Sci-Hub EVA is a cross-platform Sci-Hub GUI application.
 
 # Editor
 
@@ -14,15 +14,15 @@
 
 - [glow ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/charmbracelet/glow): Render markdown on the CLI, with pizzazz! 💅🏻
 
-- [2022~textual-markdown ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/willmcgugan/textual-markdown)](https://github.com/willmcgugan/textual-markdown): This project is an experimental "Markdown browser" for the terminal, built with Textual.
+- [2022_textual-markdown ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/willmcgugan/textual-markdown)](https://github.com/willmcgugan/textual-markdown): This project is an experimental "Markdown browser" for the terminal, built with Textual.
 
 ## Note Taking App
 
 - [Trilium ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/zadam/trilium): Trilium Notes is a hierarchical note taking application with focus on building large personal knowledge bases.
 
-- [2019~Joplin ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/laurent22/joplin): a note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.
+- [2019_Joplin ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/laurent22/joplin): a note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.
 
-- [2021~Dendron ![code](https://ng-tech.icu/assets/code.svg)](https://wiki.dendron.so/): Dendron is an open-source, local-first, markdown-based, note-taking tool built on top of VSCode.
+- [2021_Dendron ![code](https://ng-tech.icu/assets/code.svg)](https://wiki.dendron.so/): Dendron is an open-source, local-first, markdown-based, note-taking tool built on top of VSCode.
 
 ## Knowledge Management
 
@@ -32,7 +32,7 @@
 
 - [logseq ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/logseq/logseq): A local-first, non-linear, outliner notebook for organizing and sharing your personal knowledge base. Use it to organize your todo list, to write your journals, or to record your unique life.
 
-- [2022~memos ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/usememos/memos): An open-source, self-hosted memo hub for knowledge management and collaboration.
+- [2022_memos ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/usememos/memos): An open-source, self-hosted memo hub for knowledge management and collaboration.
 
 ## Collaborative Editing（协同编辑）
 
@@ -44,11 +44,11 @@
 
 ## Presentation
 
-- [2018~mdx deck ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/jxnblk/mdx-deck): MDX-based presentation decks (Beta).
+- [2018_mdx deck ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/jxnblk/mdx-deck): MDX-based presentation decks (Beta).
 
-- [2019~fusuma ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/hiroppy/fusuma): Fusuma makes slides with Markdown easily.
+- [2019_fusuma ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/hiroppy/fusuma): Fusuma makes slides with Markdown easily.
 
-- [2021~Slidev ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/slidevjs/slidev): Presentation Slides for Developers (Public Beta 🎉)
+- [2021_Slidev ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/slidevjs/slidev): Presentation Slides for Developers (Public Beta 🎉)
 
 ## Blog
 
@@ -64,7 +64,7 @@
 
 # LaTeX
 
-- [2019~SwiftLaTeX ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/SwiftLaTeX/SwiftLaTeX): SwiftLaTeX is a Web-browser based editor to create PDF documents such as reports, term projects, slide decks, in the typesetting system LaTeX.
+- [2019_SwiftLaTeX ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/SwiftLaTeX/SwiftLaTeX): SwiftLaTeX is a Web-browser based editor to create PDF documents such as reports, term projects, slide decks, in the typesetting system LaTeX.
 
 # Documentation
 
@@ -76,7 +76,7 @@
 
 - [docsify ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/docsifyjs/docsify): A magical documentation site generator.
 
-- [2017~Docusaurus ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/facebook/docusaurus): Docusaurus is a project for easily building, deploying, and maintaining open source project websites.
+- [2017_Docusaurus ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/facebook/docusaurus): Docusaurus is a project for easily building, deploying, and maintaining open source project websites.
 
 - [Docup ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/egoist/docup): Docup is a single JavaScript file that fetches Markdown file and renders it as a beautiful one-page documentation.
 
@@ -96,4 +96,4 @@
 
 # Publish | 发布工具
 
-- [2020~Artipub ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/crawlab-team/artipub)](https://github.com/crawlab-team/artipub): ArtiPub (Article Publisher 的简称，意为 "文章发布者") 是一款开源的一文多发平台，可以帮助文章作者将编写好的文章自动发布到掘金、SegmentFault、CSDN、知乎、开源中国等技术媒体平台，传播优质知识，获取最大的曝光度。ArtiPub 安装简单，提供了多种安装方式，可以一键安装使用，安装一般只要 5 分钟。
+- [2020_Artipub ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/crawlab-team/artipub)](https://github.com/crawlab-team/artipub): ArtiPub (Article Publisher 的简称，意为 "文章发布者") 是一款开源的一文多发平台，可以帮助文章作者将编写好的文章自动发布到掘金、SegmentFault、CSDN、知乎、开源中国等技术媒体平台，传播优质知识，获取最大的曝光度。ArtiPub 安装简单，提供了多种安装方式，可以一键安装使用，安装一般只要 5 分钟。

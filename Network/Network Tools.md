@@ -2,7 +2,7 @@
 
 - [gping ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/orf/gping): Ping, but with a graph.
 
-- [2023~NetBox ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/netbox-community/netbox)](https://github.com/netbox-community/netbox): NetBox exists to empower network engineers. Since its release in 2016, it has become the go-to solution for modeling and documenting network infrastructure for thousands of organizations worldwide. As a successor to legacy IPAM and DCIM applications, NetBox provides a cohesive, extensive, and accessible data model for all things networked. By providing a single robust user interface and programmable APIs for everything from cable maps to device configurations, NetBox serves as the central source of truth for the modern network.
+- [2023_NetBox ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/netbox-community/netbox)](https://github.com/netbox-community/netbox): NetBox exists to empower network engineers. Since its release in 2016, it has become the go-to solution for modeling and documenting network infrastructure for thousands of organizations worldwide. As a successor to legacy IPAM and DCIM applications, NetBox provides a cohesive, extensive, and accessible data model for all things networked. By providing a single robust user interface and programmable APIs for everything from cable maps to device configurations, NetBox serves as the central source of truth for the modern network.
 
 # Proxy
 
@@ -16,7 +16,7 @@
 
 - [awesome-tunneling ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/anderspitman/awesome-tunneling): List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
 
-- [2018~localtunnel ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/localtunnel/localtunnel): localtunnel 提供了内网穿透的能力，能够将本地端口映射到公网域名，其不需要任何 DNS 辅助。localtunnel 方便了我们向公网中的用户展示本地开发环境的效果(虽然网络很不流畅)，也可用于 Git Hook 等需要 API 回调服务的情况。
+- [2018_localtunnel ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/localtunnel/localtunnel): localtunnel 提供了内网穿透的能力，能够将本地端口映射到公网域名，其不需要任何 DNS 辅助。localtunnel 方便了我们向公网中的用户展示本地开发环境的效果(虽然网络很不流畅)，也可用于 Git Hook 等需要 API 回调服务的情况。
 
 - [natpass ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/lwch/natpass): 新一代 NAT 内网穿透工具，支持 tcp 隧道、shell 隧道，实现原理。
 
@@ -40,7 +40,7 @@
 
 - [Portmaster ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/safing/portmaster): 🏔 Love Freedom - ❌ Block Mass Surveillance.
 
-- [2022~AdGuardHome ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/AdguardTeam/AdGuardHome): Network-wide ads & trackers blocking DNS server
+- [2022_AdGuardHome ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/AdguardTeam/AdGuardHome): Network-wide ads & trackers blocking DNS server
 
 # Request Builder
 
@@ -56,7 +56,7 @@
 
 - [rclone ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/rclone/rclone): "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files.
 
-- [2022~cdc-file-transfer ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/google/cdc-file-transfer)](https://github.com/google/cdc-file-transfer): Born from the ashes of Stadia, this repository contains tools for synching and streaming files from Windows to Linux. They are based on Content Defined Chunking (CDC), in particular FastCDC, to split up files into chunks.
+- [2022_cdc-file-transfer ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/google/cdc-file-transfer)](https://github.com/google/cdc-file-transfer): Born from the ashes of Stadia, this repository contains tools for synching and streaming files from Windows to Linux. They are based on Content Defined Chunking (CDC), in particular FastCDC, to split up files into chunks.
 
 # Transfer
 
@@ -80,4 +80,4 @@
 
 # Upload Tools
 
-- [2021~Upgit ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/pluveto/upgit)](https://github.com/pluveto/upgit): Upgit is a native & lightweight tool to helps you upload any file to your Github repository and then get a raw URL for it.
+- [2021_Upgit ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/pluveto/upgit)](https://github.com/pluveto/upgit): Upgit is a native & lightweight tool to helps you upload any file to your Github repository and then get a raw URL for it.
